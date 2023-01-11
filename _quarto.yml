@@ -10,9 +10,15 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - href: publication.qmd
+        text: publication
     right: 
       - href: ../en
         text: En
+      - href: https://github.com/goodboychan
+        icon: github
+      - href: https://www.linkedin.com/in/chanseokk/
+        icon: linkedin
 
 format:
   html:
