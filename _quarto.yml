@@ -3,12 +3,16 @@ project:
   output-dir: _site
 
 website:
-  title: "kr"
+  title: "생각많은 소심남"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+    right: 
+      - href: ../en
+        text: En
 
 format:
   html:
