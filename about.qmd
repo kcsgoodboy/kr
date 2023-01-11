@@ -4,6 +4,10 @@ format:
         page-layout: full
 ---
 
+<p style="text-align: center; font-family: Brush Script MT; font-size: 1.1em">
+*이론과 실전은 다르다.*
+</p>
+
 ::: {.grid}
 
 ::: {.g-col-4}

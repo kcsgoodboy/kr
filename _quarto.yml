@@ -11,7 +11,7 @@ website:
       - href: about.qmd
         text: About
       - href: publication.qmd
-        text: publication
+        text: Publication
     right: 
       - href: ../en
         text: En
